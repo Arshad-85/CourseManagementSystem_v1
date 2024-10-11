@@ -1,0 +1,7 @@
+C:\Users\ut1201\Desktop\Practical Exam\CourseManagementSystem_v1\CourseManagementSystem_v1\bin\Debug\CourseManagementSystem_v1.exe.config
+C:\Users\ut1201\Desktop\Practical Exam\CourseManagementSystem_v1\CourseManagementSystem_v1\bin\Debug\CourseManagementSystem_v1.exe
+C:\Users\ut1201\Desktop\Practical Exam\CourseManagementSystem_v1\CourseManagementSystem_v1\bin\Debug\CourseManagementSystem_v1.pdb
+C:\Users\ut1201\Desktop\Practical Exam\CourseManagementSystem_v1\CourseManagementSystem_v1\obj\Debug\CourseManagementSystem_v1.csproj.AssemblyReference.cache
+C:\Users\ut1201\Desktop\Practical Exam\CourseManagementSystem_v1\CourseManagementSystem_v1\obj\Debug\CourseManagementSystem_v1.csproj.CoreCompileInputs.cache
+C:\Users\ut1201\Desktop\Practical Exam\CourseManagementSystem_v1\CourseManagementSystem_v1\obj\Debug\CourseManagementSystem_v1.exe
+C:\Users\ut1201\Desktop\Practical Exam\CourseManagementSystem_v1\CourseManagementSystem_v1\obj\Debug\CourseManagementSystem_v1.pdb

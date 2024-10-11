@@ -8,17 +8,19 @@ namespace CourseManagementSystem_v1
 {
     internal class Course
     {
-        private int CourseId { get; set; }
-        private string Title { get; set; }
-        private string Duration { get; set; }
-        private decimal Price { get; set; }
+        public string CourseId { get; set; }
+        public string Title { get; set; }
+        public string Duration { get; set; }
+        public decimal Price { get; set; }
+        public static int TotalCourses = 0;
 
-        private Course(int courseId, string title, string duration, decimal price)
+        public Course(string courseId, string title, string duration, decimal price)
         {
-            this.CourseId = courseId;
-            this.Title = title;
-            this.Duration = duration;
-            this.Price = price;
+            CourseId = courseId;
+            Title = title;
+            Duration = duration;
+            Price = price;
+            TotalCourses += 1;
         }
 
         public override string ToString()
